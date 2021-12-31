@@ -1,3 +1,3 @@
-module felnd/monkey
+module github.com/felnd/monkey
 
 go 1.13
